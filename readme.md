@@ -76,8 +76,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot1.png" width="375px" alt="De homepage van de UFC">
+<img src="images/screenshot2.png" width="375px" alt="De homepage van de UFC">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/screenshot2.png" width="375px" alt="de newspage van de UFC">
+<img src="images/screenshot1.png" width="375px" alt="de newspage van de UFC">
