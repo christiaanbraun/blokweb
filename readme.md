@@ -42,7 +42,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-<img src="images/ufchomepage.png" width="600px" alt="Eerste elemnten op de pagina :)"
+<img src="images/ufchomepage.png" width="600px" alt="Eerste elementen op de pagina">
 
 ### Agenda voor meeting
 
