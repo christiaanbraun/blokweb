@@ -48,11 +48,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Aron     | Christiaan               | Eva          | Menno            |
 | ---            | ---                | ---          | ---              |
-| Semtantiek HTML| Idem.              | en ik dit    | en dan ik dat    |
-| an dat ook nog | CSS positioneren.  | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Semtantiek HTML| Idem.              | Idem         | Idem             |
+| Kort houden CSS| CSS positioneren.  |              |                  |
+
 
 ### Verslag van meeting
 
