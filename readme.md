@@ -50,7 +50,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 | Aron     | Christiaan               | Eva          | Menno            |
 | ---            | ---                | ---          | ---              |
-| Semtantiek HTML| Idem.              | Idem         | Idem             |
+| Semtantiek HTML| Breakdownschets    | Idem         | Idem             |
 | Kort houden CSS| CSS positioneren.  |              |                  |
 |                | CSS selectors      |              |
 
