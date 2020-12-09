@@ -30,7 +30,28 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Ben begonnen met CSS schrijven, tot nu toe gaat het prima. Vraag mij alleen af of ik niet te veel herhaal of onduidelijke code schrijf.
+
+**Screenshot(s):**
+
+<img src="images/ufchomepage2.png" width="600px" alt="CSS toegepast op eerste twee sections en de header">
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+| Aron     | Christiaan               | Eva          | Menno            |
+| ---            | ---                | ---          | ---              |
+| Semtantiek HTML| CSS nakijken       | Idem         | Idem             |
+| Kort houden CSS| CSS positioneren.  |              |                  |
+|                |     |              |
+
+
+### Verslag van meeting
+
+
 
 
 
@@ -38,7 +59,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+HTML ging eigenlijk wel goed. Het kiezen van de juiste selectoren is nog even inkomen.
 
 **Screenshot(s):**
 
@@ -57,7 +78,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Meeting ging prima, vooral gekeken naar HTML structuur en goed gebruik maken van CSS selectors. Volgende keer kan ik gerichter vragen stellen omdat ik meer gedaan heb :).
 
 
 
