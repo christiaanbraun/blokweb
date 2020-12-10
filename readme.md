@@ -50,6 +50,7 @@ Ben begonnen met CSS schrijven, tot nu toe gaat het prima. Vraag mij alleen af o
 
 
 ### Verslag van meeting
+Meeting was kort maar krachtig, kort de dingen besproken die in ons tabel staan. Daarnaast hebben we feedback ontvangen over github dit kan namelijk beter bij worden gehouden.
 
 
 
