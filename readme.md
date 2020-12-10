@@ -43,10 +43,10 @@ Ben begonnen met CSS schrijven, tot nu toe gaat het prima. Vraag mij alleen af o
 -samen met je groepje opstellen-
 
 | Aron     | Christiaan               | Eva          | Menno            |
-| ---            | ---                | ---          | ---              |
+| ---      | ---                | ---          | ---              |
 | Kortste manier om de pagina responsive te maken| CSS nakijken       | ?         | Centreren             |
-  | | CSS positioneren.  |              |                  |
-|                |     |              |
+|          | CSS positioneren.  |              |                  |
+|          | Typografie         |              |
 
 
 ### Verslag van meeting
