@@ -44,8 +44,8 @@ Ben begonnen met CSS schrijven, tot nu toe gaat het prima. Vraag mij alleen af o
 
 | Aron     | Christiaan               | Eva          | Menno            |
 | ---            | ---                | ---          | ---              |
-| Semtantiek HTML| CSS nakijken       | Idem         | Idem             |
-| Kort houden CSS| CSS positioneren.  |              |                  |
+| Kortste manier om de pagina responsive te maken| CSS nakijken       | ?         | Centreren             |
+  | | CSS positioneren.  |              |                  |
 |                |     |              |
 
 
