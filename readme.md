@@ -7,7 +7,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. http://www.ufc.com/
-2. -bron 2-
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 3. -...-
 
 
@@ -24,7 +24,27 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+
+Eerste pagina is bijna af qua HTML en CSS. Ik moet alleen nog aan de surface plane beginnen, alles is statisch. Zie hier stiekem een beetje tegenop omdat ik het nog nooit heb gedaan.
+
+**Screenshot(s):**
+
+<img src="images/homepagevoortgang3.png" width="600px" alt="Nog een section en de footer.">
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+| Aron     | Christiaan               | Eva          | Menno            |
+| ---      | ---                | ---          | ---              |
+| Responsive text | Sticky image?, weet niet hoe heet heet, eerste header     | Niks             | Button animatie |
+|          |   |              |                  |
+|          |        |              |
+
+
+### Verslag van meeting
+We hebben geprobeerd mijn probleem op te lossen maar het is nog niet gelukt. Verder zijn is de ::after besproken en heeft Sanne uitgelegd hoe je text responsive kan maken.
 
 
 
