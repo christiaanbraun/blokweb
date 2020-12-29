@@ -8,7 +8,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Bronnenlijst
 1. http://www.ufc.com/
 2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-3. -...-
+3. https://www.youtube.com/watch?v=T8EYosX4NOo Video over intersection observer
+4. https://www.youtube.com/watch?v=huVJW23JHKQ Tutorial over elementen in laten faden en scrollen
 
 
 
