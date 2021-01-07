@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="nl">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -14,33 +14,44 @@
 </head>
 
 <body>
-    <header>
+    <header class="sticky">
         <!--        Bron van de foto:https://1000logos.net/ufc-logo/-->
         <a href="index.html"><img src="images/logoufc.jpg" alt="UFC logo"></a>
-        <nav>
 
+        <button>MENU</button>
+        <nav>
+            <ul>
+                <li><a href="index.html">EVENTS</a></li>
+                <li><a href="index.html">RANKINGS</a></li>
+                <li><a href="index.html">ATHLETES</a></li>
+                <li><a href="pages/news.html">NEWS</a></li>
+                <li><a href="index.html">VIDEOS</a></li>
+                <li><a href="index.html">CONNECT</a></li>
+                <li><a href="index.html">WATCH</a></li>
+                <li><a href="index.html">SHOP</a></li>
+            </ul>
         </nav>
     </header>
 
     <main>
 
-        <section>
+        <section class="hero">
             <div>
                 <h1>UFC FIGHT NIGHT: FELDER VS DOS ANJOS</h1>
                 <h2>FIGHT BY FIGHT PREVIEW</h2>
                 <h3>Take A Close Look At Each UFC Vegas 14 Matchup</h3>
 
-                <a href="prank">FIGHT BY FIGHT PREVIEW</a>
+                <a href="index.html">FIGHT BY FIGHT PREVIEW</a>
                 <a>WATCH ON ESPN+</a>
             </div>
 
         </section>
 
-        <section>
+        <section class="fights">
   
-                <ul>
+                <ul class="hidescrollbar">
                     <li>
-                        <a href="">
+                        <a href="index.html">
                             <!--Bron van de afbeelding: ufc.com-->
                             <h1> <img src="images/logo256.png" alt="UFC 256"> </h1>
                             <h2>SANTOS VS TEIXEIRA</h2>
@@ -50,7 +61,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="">
+                        <a href="index.html">
                             <!--Bron van de afbeelding: ufc.com-->
                             <h1> <img src="images/logo256.png" alt="UFC 256"> </h1>
                             <h2>SANTOS VS TEIXEIRA</h2>
@@ -63,8 +74,8 @@
          
         </section>
 
-        <section class="fade-in">
-            <a>
+        <section class= "story fade-in">
+            <a href="index.html">
                 <div>
                     <h1>UPDATES TO UFC VEGAS 14</h1>
 
@@ -75,51 +86,66 @@
             </a>
         </section>
 
-        <section >
+        <section class="video fade-in">
             <a>
-                <div>
+                <div class="overlay">
                     <h1>UFC VEGAS 13: GLOVER TEIXEIRA POST-FIGHT INTERVIEW</h1>
-                    <p>ATHLETES</p>
+                    <h2>ATHLETES</h2>
 
-
-                    <button>PLAY</button>
+                    
+                         <button> </button>
+                  
                 </div>
-                <img src="images/gloverteixera.jpg" alt="Glover Teixera post fight interview">
+                <img class="overlay" src="images/gloverteixera.jpg" alt="Glover Teixera post fight interview">
             </a>
         </section>
 
-        <section>
+        <section class="ad">
 
-            <h1>OURA RING</h1>
-            <h2>THE ONLY RING FOR THE OCTAGON</h2>
-
-            <div>
-                <a>LEARN MORE</a>
-                <a>OURA RING'S IMPACT</a>
+             <div class="slide-in">
+                    <h1>OURA RING</h1>
+                    <h2>THE ONLY RING FOR THE OCTAGON</h2>
+               
+                
+                <div>
+                    <a href="index.html">LEARN MORE</a>
+                    <a href="index.html">OURA RING'S IMPACT</a>
+                </div>
             </div>
+            
 
             <img src='images/ouraring.jpg' alt="The Oura Ring">
 
         </section>
 
-        <section>
-            <div>
+        <section class="results fade-in">
                 <h1>RESULTS</h1>
                 <h2>KHABIB NURMAGOMEDOV: UNPARALLELED, UNMATCHED AND...</h2>
                 <p>Lightweight Champion Retires With An Unprecendented Legacy Of Dominance</p>
-                <a href="google.com">More</a>
-            </div>
-            <img>
+                <a href="index.html">MORE</a>
+            <img src="images/khabib.jpg" alt="Khabib wearing a funny hat.">
         </section>
 
+   
         <footer>
-            <nav>
-                <a href="www.ufc.com">UFC</a>
-                <button>UFC.COM - WORLD</button>
-
+            <div>
+            <!-- Foto gestolen van: https://www.sportsbusinessdaily.com/Global/Issues/2015/11/13/People-and-Pop-Culture/Hangin-With.aspx -->
+            <a><img src="images/ufclogowhite.png"/></a>
+                <button class="landenknop">UFC.COM - WORLD</button>
+                <div class="landenoverlay" >
                 <ul>
-                    <li></li>
+                    <li><a >Brazil</a></li>
+                    <li><a >China</a></li>
+                    <li><a>France</a></li>
+                    <li><a >Japan</a></li>
+                    <li><a>Korea</a></li>
+                    <li><a>Latin America</a></li>
+                    <li><a>Russia</a></li>
+                    <li><a>USA Espanol</a></li>
                 </ul>
+            </div>
+            </div>
+            <nav>
 
                 <UL>
                     <li>
@@ -143,7 +169,7 @@
                 </UL>
                 <UL>
                     <li>
-                        <a href="ufc.com">HELP</a>
+                        <a href="index.html">HELP</a>
                     </li>
                     <li>
                         <a>Fight Pass FAQ</a>
@@ -151,7 +177,7 @@
                 </UL>
                 <UL>
                     <li>
-                        <a href="ufc.com">LEGAL</a>
+                        <a href="index.html">LEGAL</a>
                     </li>
                     <li>
                         <a>Terms</a>
@@ -167,12 +193,12 @@
             </nav>
 
             <p>Copyright.....</p>
-
+        </main>
         </footer>
 
-    </main>
+   
 
-
+   
 
 
 
