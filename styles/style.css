@@ -120,6 +120,7 @@ header button img {
     display: inline;
     width: 1em;
     transition: .5s;
+    margin-left: .2em;
 }
 
 body.visible header button img {
