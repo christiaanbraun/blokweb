@@ -3,8 +3,9 @@
 var menuButton = document.querySelector('header button');
 var body = document.querySelector('body');
 
-
-
+// Filter fold-open
+var filterButton = document.querySelector('section.filter button');
+var filterSection = document.querySelector('section.filter')
 
 // de faders 
 var faders = document.querySelectorAll('.fade-in');
@@ -14,16 +15,25 @@ var sliders = document.querySelectorAll('.slide-in');
 
 // Landenmenu footer
 var landenKnop = document.querySelector('.landenknop');
+
 var landenOverlay = document.querySelector('.landenoverlay');
+
 
 
 // Menu openen functie enzooooo
 menuButton.addEventListener("click", openNav);
 
+if (filterButton){
+filterButton.addEventListener("click", openFilter)
+}
+
 function openNav(){
     body.classList.toggle('visible');
 
+}
 
+function openFilter(){
+    filterSection.classList.toggle('visibleFilter');
 }
 
 // Elementen in laten faden
@@ -70,7 +80,6 @@ var slideOnScroll =  new IntersectionObserver
             return;
         }else {
             entry.target.classList.add('slide-appear');
-            // entry.target.classList.remove('slide-in');
             slideOnScroll.unobserve(entry.target);
         }
     });
