@@ -10,7 +10,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 3. https://www.youtube.com/watch?v=T8EYosX4NOo Video over intersection observer
 4. https://www.youtube.com/watch?v=huVJW23JHKQ Tutorial over elementen in laten faden en scrollen
-
+5. https://www.sinds1971.nl/fed/parallax/index.html voor de parallax
+6. https://codepen.io/shooft/pen/RwGQKKP?editors=1100 ook voor de parallax
 
 
 ## Screenreader test
