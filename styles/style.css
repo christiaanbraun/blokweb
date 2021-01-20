@@ -760,7 +760,7 @@ section.filter.visibleFilter ul {
     right: -4px;
     width: 64vw;
     height: 24vh;
-    z-index: 2;
+    z-index: 70;
 
     text-align: left;
     padding: 1em;
