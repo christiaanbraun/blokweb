@@ -37,6 +37,7 @@ function openFilter(){
 }
 
 // Elementen in laten faden
+// Code van: https://www.youtube.com/watch?v=huVJW23JHKQ met een eigen twist
 
 var appearOptionsFade = {
     treshold: 1,
