@@ -19,6 +19,8 @@ De pagina is redelijk te navigeren met een screenreader, alle links en teksten z
 
 Het menu vouwt open maar is met de screenreader altijd te bereiken, dit zou verholpen kunnen worden om de website te verbeteren.
 
+De playknoppen op video's worden niet als playknop maar als normale knop opgelezen, een gebruiker die gebruik maakt van een screenreader zal waarschijnlijk niet snappen dat het om een playknop gaat.
+
 ## Eindgesprek (week 7/8)
 
 De website was nog niet af tijdens dit gesprek :(
