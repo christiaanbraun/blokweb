@@ -13,9 +13,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
+## Screenreader test
+
+De pagina is redelijk te navigeren met een screenreader, alle links en teksten zijn bereikbaar. Alleen gaat het soms nog verkeerd om bijvoorbeeld eerst een h2 en dan pas een h1 oplezen.
+
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+De website was nog niet af tijdens dit gesprek :(
 
 **Screenshot(s):**
 
