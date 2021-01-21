@@ -14,6 +14,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 6. https://codepen.io/shooft/pen/RwGQKKP?editors=1100 ook voor de parallax
 
 
+## Herkansing (week 9)
+Ik heb het vak gehaald :). Ik vond het leuk om met de code te spelen en puzzelen. Tijdens het vak heb ik een hoop geleerd en het heeft mij geinspireerd om verder te gaan met coderen.
+Het grootste deel van de geschreven code begrijp ik maar nog niet alles. 
+
 ## Screenreader test
 
 De pagina is redelijk te navigeren met een screenreader, alle links en teksten zijn bereikbaar.
