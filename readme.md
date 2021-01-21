@@ -28,8 +28,8 @@ De website was nog niet af tijdens dit gesprek :(
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
-
+<img src="images/eindresultaat_home.png" width="600px" alt="De UFC homepage a la Chris"/>
+<img src="images/eindresultaat_news.png" width="600px" alt="De UFC newspagina a la Chris"/>
 
 
 ## Voortgang 3 (week 6)
